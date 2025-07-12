@@ -1,0 +1,9 @@
+/data
+/dataset
+*.hdf5
+*.ckpt
+*.pth
+*.pt
+*.ply
+__pycache__
+*.png

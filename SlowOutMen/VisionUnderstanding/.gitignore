@@ -1,0 +1,10 @@
+debug_pic
+*.hdf5
+*.ckpt
+*.pth
+*.pt
+*.ply
+__pycache__
+/checkpoints
+*.egg-info
+*.png
